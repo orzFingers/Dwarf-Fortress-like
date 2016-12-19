@@ -1,0 +1,27 @@
+precision highp float;
+uniform sampler2D al_tex; // the image we're drawing, a 4xResolution image
+uniform sampler2D inputSampler; // the foreground collision image.
+uniform float selection;
+vec4 pixColor;
+vec2 pixCoord;
+varying vec4 varying_color;
+varying vec2 varying_texcoord;
+
+void setColor(){
+  //multiply color in al_tex(pixColor) by the red value of the location on inputSampler
+  //texture2D(inputSampler, colPixel).a 
+  float samplerHeight = 150.0;
+  float startY = selection*0.06666666666;
+  float y = startY+0.06666666666-((pixCoord.y)*0.09666666666+0.003333333333); //Why does that work? value should be 0.066, not 0.096
+  
+  vec4 samplerColor = texture2D(inputSampler, vec2(pixCoord.x, 1.0-y));
+  pixColor = samplerColor*pixColor;
+}
+
+void main(){
+  pixCoord = varying_texcoord;
+  pixColor = texture2D(al_tex, varying_texcoord);
+  if(selection > -1.0)
+    setColor();
+  gl_FragColor = pixColor;
+}

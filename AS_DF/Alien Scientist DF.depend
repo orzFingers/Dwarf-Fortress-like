@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1466207572 source:f:\games\alien scientist df\alien scientist df\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Input.h"
+	"Tile.h"
+	"Sound.h"
+	"Odor.h"
+	"Vision.h"
+	"Weather.h"
+	"Map_Generator.h"
+	"Objects.h"
+	"Player.h"
+	"File_Handler.h"
+	"Menu.h"
+	"world.h"
+
+1466525836 f:\games\alien scientist df\alien scientist df\constants.h
+
+1466534091 f:\games\alien scientist df\alien scientist df\tile.h
+
+1466202372 f:\games\alien scientist df\alien scientist df\character.h
+
+1464798834 f:\games\alien scientist df\alien scientist df\inanimate.h
+
+1466205981 f:\games\alien scientist df\alien scientist df\images.h
+
+1467383562 f:\games\alien scientist df\alien scientist df\world.h
+
+1465490716 f:\games\alien scientist df\alien scientist df\input.h
+
+1466552874 f:\games\alien scientist df\alien scientist df\player.h
+
+1465653399 f:\games\alien scientist df\alien scientist df\map_generator.h
+
+1466187642 f:\games\alien scientist df\alien scientist df\menu.h
+
+1465491711 source:f:\games\alien scientist df\alien scientist df\main.cpp
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Input.h"
+	"Tile.h"
+	"Menu.h"
+	"Map_Generator.h"
+	"Character.h"
+	"Player.h"
+	"world.h"
+
+1466129125 f:\games\alien scientist df\alien scientist df\sound.h
+
+1466003037 f:\games\alien scientist df\alien scientist df\smell.h
+
+1466205485 f:\games\alien scientist df\alien scientist df\interactable_objects.h
+
+1466552462 f:\games\alien scientist df\alien scientist df\odor.h
+
+1467746936 f:\games\alien scientist df\alien scientist df\weather.h
+
+1466104089 f:\games\alien scientist df\alien scientist df\vision.h
+
+1467383487 f:\games\alien scientist df\alien scientist df\file_handler.h
+
+1466207227 f:\games\alien scientist df\alien scientist df\objects.h
+
+1466207572 source:f:\games\games\alien scientist df\alien scientist df\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Input.h"
+	"Tile.h"
+	"Sound.h"
+	"Odor.h"
+	"Vision.h"
+	"Weather.h"
+	"Map_Generator.h"
+	"Objects.h"
+	"Player.h"
+	"File_Handler.h"
+	"Menu.h"
+	"world.h"
+
+1466525836 f:\games\games\alien scientist df\alien scientist df\constants.h
+
+1466205981 f:\games\games\alien scientist df\alien scientist df\images.h
+
+1465490716 f:\games\games\alien scientist df\alien scientist df\input.h
+
+1466534091 f:\games\games\alien scientist df\alien scientist df\tile.h
+
+1466129125 f:\games\games\alien scientist df\alien scientist df\sound.h
+
+1466552462 f:\games\games\alien scientist df\alien scientist df\odor.h
+
+1466104089 f:\games\games\alien scientist df\alien scientist df\vision.h
+
+1467746936 f:\games\games\alien scientist df\alien scientist df\weather.h
+
+1465653399 f:\games\games\alien scientist df\alien scientist df\map_generator.h
+
+1466207227 f:\games\games\alien scientist df\alien scientist df\objects.h
+
+1466552874 f:\games\games\alien scientist df\alien scientist df\player.h
+
+1467383487 f:\games\games\alien scientist df\alien scientist df\file_handler.h
+
+1466187642 f:\games\games\alien scientist df\alien scientist df\menu.h
+
+1467383562 f:\games\games\alien scientist df\alien scientist df\world.h
+
+1481743652 source:c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Input.h"
+	"Tile.h"
+	"Sound.h"
+	"Odor.h"
+	"Vision.h"
+	"Weather.h"
+	"Map_Generator.h"
+	"Objects.h"
+	"Player.h"
+	"File_Handler.h"
+	"Menu.h"
+	"world.h"
+
+1481828582 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\constants.h
+
+1481743652 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\images.h
+
+1481743652 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\input.h
+
+1481743660 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\tile.h
+
+1481743660 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\sound.h
+
+1481830633 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\odor.h
+
+1481830965 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\vision.h
+
+1481831240 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\weather.h
+
+1481832602 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\map_generator.h
+
+1481743652 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\objects.h
+
+1481743652 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\player.h
+
+1481743652 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\file_handler.h
+
+1481743652 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\menu.h
+
+1481743660 c:\users\xenya\downloads\alien scientist df-20161215t185426z\alien scientist df\alien scientist df\world.h
+
